@@ -1,0 +1,4 @@
+**.pyc
+*.pyc
+**/config.yaml
+.chainlit/config.toml
